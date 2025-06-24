@@ -29,29 +29,3 @@ docker-compose up --build
 │   └── Dockerfile
 └── README.md
 
-### 📦 Tech Constraints
-
-* Nginx must run in a Docker container, not on host
-* Use bridge networking (no host networking)
-
----
-
-### 📝 Submission Instructions
-
-1. Upload your project to GitHub or GitLab.
-2. Include a short `README.md` with:
-
-   * Setup instructions
-   * How routing works
-   * Any bonus you implemented
-3. Deadline: **1 week**
-4. Bonus points for:
-
-   * Logging clarity
-   * Clean and modular Docker setup
-   * Healthcheck or automated test script
-
----
-
-
-
